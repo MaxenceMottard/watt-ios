@@ -1,0 +1,67 @@
+{
+  "sourceLanguage" : "fr",
+  "strings" : {
+    "Bioénergies" : {
+
+    },
+    "Charbon" : {
+
+    },
+    "Données : RTE éCO2mix via ODRÉ, Licence Ouverte v2.0 (Etalab)." : {
+
+    },
+    "Élevée" : {
+      "comment" : "Carbon intensity level"
+    },
+    "Éolien" : {
+
+    },
+    "Faible" : {
+      "comment" : "Carbon intensity level"
+    },
+    "Fioul" : {
+
+    },
+    "Fossiles" : {
+
+    },
+    "Gaz" : {
+
+    },
+    "Heure" : {
+
+    },
+    "Hydraulique" : {
+
+    },
+    "Intensité carbone" : {
+
+    },
+    "Intensité carbone : %lld grammes de CO₂ par kilowattheure, niveau %@" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Intensité carbone : %1$lld grammes de CO₂ par kilowattheure, niveau %2$@"
+          }
+        }
+      }
+    },
+    "Modérée" : {
+      "comment" : "Carbon intensity level"
+    },
+    "Nucléaire" : {
+
+    },
+    "Renouvelables" : {
+
+    },
+    "Seuil" : {
+
+    },
+    "Solaire" : {
+
+    }
+  },
+  "version" : "1.0"
+}

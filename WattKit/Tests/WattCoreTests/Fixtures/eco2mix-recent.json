@@ -1,0 +1,57 @@
+{
+ "total_count": 4,
+ "results": [
+  {
+   "date_heure": "2026-10-29T22:45:00+00:00",
+   "taux_co2": null,
+   "consommation": null,
+   "nucleaire": null,
+   "hydraulique": null,
+   "eolien": null,
+   "solaire": null,
+   "bioenergies": null,
+   "gaz": null,
+   "charbon": null,
+   "fioul": null
+  },
+  {
+   "date_heure": "2026-10-28T15:30:00+00:00",
+   "taux_co2": 43,
+   "consommation": 49798,
+   "nucleaire": 41645,
+   "hydraulique": "4249",
+   "eolien": 1873,
+   "solaire": 4738,
+   "bioenergies": 988,
+   "gaz": 4649,
+   "charbon": 0,
+   "fioul": 37
+  },
+  {
+   "date_heure": "2026-10-28T15:15:00+00:00",
+   "taux_co2": 41,
+   "consommation": 49988,
+   "nucleaire": 41547,
+   "hydraulique": 4076,
+   "eolien": 1944,
+   "solaire": 6243,
+   "bioenergies": 989,
+   "gaz": 4441,
+   "charbon": 0,
+   "fioul": 37
+  },
+  {
+   "date_heure": "2026-10-28T15:00:00+00:00",
+   "taux_co2": 41,
+   "consommation": 50060,
+   "nucleaire": 41346,
+   "hydraulique": 3656,
+   "eolien": 1957,
+   "solaire": 7352,
+   "bioenergies": 990,
+   "gaz": 4456,
+   "charbon": 0,
+   "fioul": 37
+  }
+ ]
+}
